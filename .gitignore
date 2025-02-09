@@ -1,0 +1,10 @@
+# Unreal Engine Generated Files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Packaged/
+
+# Configurations
+Config/
