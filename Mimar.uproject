@@ -56,7 +56,7 @@
 		},
 		{
 			"Name": "OculusInteraction",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2372b714e0aa46ab85168aaf035e099a",
 			"SupportedTargetPlatforms": [
 				"Win64",
