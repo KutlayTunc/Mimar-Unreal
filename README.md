@@ -34,5 +34,5 @@
 
 ## 🎯 Vision  
 
-"Mimar" is not just an anatomy learning app but a foundation for future projects, creating a **mixed world** where users can interact with knowledge in a new way.
+"Mimar" is not just an anatomy learning app but a foundation for future projects, creating a **mixed reality** where users can interact with knowledge in a new way.
 
