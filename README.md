@@ -1,6 +1,5 @@
 # Mimar - Mixed Reality Anatomy Learning App  
 
-![Mimar Logo](link-to-your-logo.png)  
 
 **Mimar** is a Mixed Reality (MR) application designed to help users explore human anatomy interactively. Built with **Unreal Engine 5.5.3** and optimized for **Meta Quest 3**, this project allows users to manipulate anatomical structures in 3D space using intuitive grab mechanics.  
 
