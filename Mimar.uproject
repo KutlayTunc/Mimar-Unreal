@@ -66,6 +66,15 @@
 		{
 			"Name": "CommonUI",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusHandTools",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
