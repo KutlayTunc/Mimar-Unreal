@@ -57,7 +57,8 @@
 ## 📦 About This Release
 
 This is the first and final Unreal Engine version of *Mimar*. All copyrighted meshes have been removed, but you can add any mesh you want in any blueprint (just tweak the collision settings).
-The project is provided both as an APK and open-source code for educational and archival purposes.  
+The project is provided both as an APK and open-source code for educational and archival purposes. I attempted to implement quaternion-based rotation, but was not satisfied with the performance. Please note that you need to recompile the project in order to open it due to the C++ script.  
+
 Repository name has been changed to `Mimar-Unreal`, and future development will continue in the Unity-based `Mimar` repository.
 
 ---
