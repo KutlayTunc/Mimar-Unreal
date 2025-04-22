@@ -10,7 +10,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Packaged/
-/Content/Meshes/Human
+Content/Meshes/Human/*
 
 
 
