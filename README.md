@@ -47,10 +47,10 @@
 ✅ Two-hand grab & transform scaling  
 ✅ Remote grab with beam 
 ✅ Labeling hovered/grabbed objects 
-✅ Custom sound & visual effects  
-🚫 Tutorial and UI implementation (cut for this release)
-🚫 3D widget model spawner (cut for this release)
-🚫 Puzzle mechanics (cut for this release)
+✅ Custom sound & visual effects 
+🚫 Tutorial and UI implementation (cut for this release) 
+🚫 3D widget model spawner (cut for this release) 
+🚫 Puzzle mechanics (cut for this release) 
 
 ---
 
