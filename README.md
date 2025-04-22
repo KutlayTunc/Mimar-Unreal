@@ -45,18 +45,18 @@
 ✅ MR environment setup  
 ✅ One-hand grab system  
 ✅ Two-hand grab & transform scaling  
-✅ Remote grab with beam 
-✅ Labeling hovered/grabbed objects 
-✅ Custom sound & visual effects 
-🚫 Tutorial and UI implementation (cut for this release) 
-🚫 3D widget model spawner (cut for this release) 
-🚫 Puzzle mechanics (cut for this release) 
+✅ Remote grab with beam    
+✅ Labeling hovered/grabbed objects    
+✅ Custom sound & visual effects      
+🚫 Tutorial and UI implementation (cut for this release)   
+🚫 3D widget model spawner (cut for this release)   
+🚫 Puzzle mechanics (cut for this release)   
 
 ---
 
 ## 📦 About This Release
 
-This is the first and final Unreal Engine version of *Mimar*. All copyrighted meshes have been removed, but you can add any mesh you want in any blueprint(just tweak the collision settings).
+This is the first and final Unreal Engine version of *Mimar*. All copyrighted meshes have been removed, but you can add any mesh you want in any blueprint (just tweak the collision settings).
 The project is provided both as an APK and open-source code for educational and archival purposes.  
 Repository name has been changed to `Mimar-Unreal`, and future development will continue in the Unity-based `Mimar` repository.
 
