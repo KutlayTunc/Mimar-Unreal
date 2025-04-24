@@ -43,16 +43,26 @@
 ## 📌 Development Progress
 
 ✅ MR environment setup  
-✅ One-hand grab system  
-✅ Two-hand grab & transform scaling  
-✅ Remote grab with beam    
-✅ Labeling hovered/grabbed objects    
-✅ Custom sound & visual effects      
+✅ One-hand grab system       
+![PinchGrab1](https://github.com/user-attachments/assets/8e50ab12-1f4a-441b-856f-26ed09c93a50)          
+✅ Two-hand grab & transform scaling      
+![TwoGrabTransform](https://github.com/user-attachments/assets/e27809ee-d700-4182-ae61-5c97f7598658)      
+✅ Labeling hovered objects         
+![BeamPointer1](https://github.com/user-attachments/assets/64695c22-e855-488e-bbae-c211838e0852)      
+✅ Remote grab with beam            
+![BeamLabels](https://github.com/user-attachments/assets/5171466d-2b69-42f1-ad92-3c07eda0ed61)        
+✅ Custom sound & visual effects    
+*beep boop*          
+
 🚫 Tutorial and UI implementation (cut for this release)   
 🚫 3D widget model spawner (cut for this release)   
 🚫 Puzzle mechanics (cut for this release)   
 
----
+---     
+For updates you can check:    
+https://www.youtube.com/@kutlaytunc      
+https://youtu.be/slrKiEo-YX8       
+---     
 
 ## 📦 About This Release
 
@@ -68,3 +78,12 @@ Repository name has been changed to `Mimar-Unreal`, and future development will 
 *Mimar* started as a vision to bring anatomy education into a mixed reality space — where students don’t just *see* anatomical structures, but *touch*, *move*, and *understand* them spatially. Although my main focus has been on anatomy development, this project will serve as a foundational template for other mixed reality applications, incorporating core principles that will lay the groundwork for future ventures in the field.
 
 This Unreal Engine version was a critical prototype in that journey. While I’m moving forward in Unity, this milestone marks a “first step” worth sharing.
+
+
+---
+
+📺 **For updates and video demo:**  
+🔗 [YouTube Channel](https://www.youtube.com/@kutlaytunc)  
+🎞️ [Watch the Demo Video](https://youtu.be/slrKiEo-YX8)
+
+--- 
