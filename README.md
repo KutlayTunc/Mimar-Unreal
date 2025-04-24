@@ -59,10 +59,6 @@
 🚫 Puzzle mechanics (cut for this release)   
 
 ---     
-For updates you can check:    
-https://www.youtube.com/@kutlaytunc      
-https://youtu.be/slrKiEo-YX8       
----     
 
 ## 📦 About This Release
 
